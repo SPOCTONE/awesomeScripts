@@ -1,7 +1,1 @@
-Dependencies:-
-
-- Schedule Library
-  Installation:
-  `pip install schedule`
-
-   
+schedule==0.6.0

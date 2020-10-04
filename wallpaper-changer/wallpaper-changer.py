@@ -32,7 +32,7 @@ def changeWallpaper():
 
 
 # every day at 22:00 time changeWallpaper() is called
-schedule.every().day.at("17:00").do(changeWallpaper)
+schedule.every().day.at("22:00").do(changeWallpaper)
 
 # this loop causes the script to run indefinitely
 while True:
